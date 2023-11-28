@@ -298,7 +298,7 @@
       </div> -->
 
 
-     </div>
+
 
 <hr height="1" style="width: 75%;" />  
   <div class="container px-3 pb-3 pt-1 rounded">
@@ -389,6 +389,7 @@
 </div>
 <div class="col-sm-4" style="text-align:right">
 <img src="/images/deep-dive.png" alt="Deep dive into Azure DevOps" width="250">
+</div>
 </div>
  <div class="col-sm-12 mar-bot">
                                 <!-- <h3 id="step-by-step-tutorials">Step-by-Step Tutorials</h3>  -->
