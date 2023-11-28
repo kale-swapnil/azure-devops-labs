@@ -390,7 +390,6 @@
 <div class="col-sm-4" style="text-align:right">
 <img src="/images/deep-dive.png" alt="Deep dive into Azure DevOps" width="250">
 </div>
-</div>
  <div class="col-sm-12 mar-bot">
                                 <!-- <h3 id="step-by-step-tutorials">Step-by-Step Tutorials</h3>  -->
                                 <div class="row equal-height-columns">
