@@ -1,14 +1,3 @@
----
-layout: homepage
-title: Azure DevOps Hands-On Labs
-keywords: ALM VM homepage
-tags: [overview]
-permalink: default.html
-comments: true
-landingpage: false
-description: Implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server
----
-
 <div class="container">
 <div class="row my-2">
   <div class="col-sm-8" style="margin-top:30px; margin-bottom: 20px">
@@ -308,9 +297,7 @@ description: Implement modern DevOps practices with Azure, Azure DevOps Services
       <p>For the on-premises platform, Azure DevOps Server (previously named Visual Studio Team Foundation Server), see  <a href="/labs/devopsserver/" class="btn btn-sm btn-primary">Azure DevOps Server 2019 Labs</a></p>
       </div> -->
 
-<div class="row" style="margin-left: 10px;margin-top: 10px;">
-      <p> Want even more hands-on experience? Azure DevOps courses are now available on Microsoft Learn. <a href="https://docs.microsoft.com/en-us/learn/browse/?products=azure-devops" target="_blank" class="btn btn-sm btn-primary">Visit Microsoft Learn</a></p>
-      </div> 
+
      </div>
 
 <hr height="1" style="width: 75%;" />  
@@ -398,7 +385,7 @@ description: Implement modern DevOps practices with Azure, Azure DevOps Services
 <div class="row my-2">
   <div class="col-sm-8" style="margin-top:30px; margin-bottom: 20px">
   <h2 class="border-0 fon-normal">Deep Dive into Azure DevOps</h2> 
-                                  <p>Azure DevOps provides integration with popular open source and third-party tools and services—across the entire DevOps workflow. Use the tools and languages you know. Spend less time integrating and more time delivering higher-quality software, faster.</p>
+                                  <p>Azure DevOps provides integration with popular open source and third-party tools and services—across the entire DevOps workflow.</p>
 </div>
 <div class="col-sm-4" style="text-align:right">
 <img src="/images/deep-dive.png" alt="Deep dive into Azure DevOps" width="250">
