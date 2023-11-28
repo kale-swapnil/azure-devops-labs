@@ -9,84 +9,11 @@ landingpage: false
 description: Implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server
 ---
 
-<!-- <div class="bg-image">
-    <div class="container" style="padding-top:45px">
-        <div class="row">
-            <div class="col-sm-7">
-                <h1 class="mt-2">Azure DevOps Hands-On Labs</h1>
-                <div class="herotext2">
-                    <p>Evaluating your next DevOps tool chain? Want to dive deeper and learn how you can implement
-                        modern DevOps practice?</p>
-                    <p>Learn to plan smartly, collaborate better, and ship faster with a set of modern development
-                        services. </p>
-                </div>
-            </div>
-            <div class="align-items-center col-sm-5">
-                <img src="/images/lab.png" alt="banner-image" style="max-width:100%;margin-top:15px">
-            </div>
-        </div>
-    </div>
-</div> -->
-<div id="demo" class="carousel slide" data-ride="carousel">
-
-  <!-- Indicators -->
-  <ul class="carousel-indicators">
-    <li data-target="#demo" data-slide-to="0" class="active"></li>
-    <li data-target="#demo" data-slide-to="1"></li>
-     <li data-target="#demo" data-slide-to="2"></li>
-  </ul>
-
-  <!-- The slideshow -->
-  <div class="carousel-inner">
-    <div class="carousel-item active banner1">     
-      <div class="text-center p-t-60px">
-      <p class="bannerTitle">What is DevOps?</p>
-      <p class="bannerText mb-1">DevOps brings together people, processes, and technology, automating software delivery to provide continuous value to your users. <br /> DevOps automates and speeds software delivery. It makes your process and your products more reliable.</p>
-      </div>
-    </div>
-    <div class="carousel-item banner2">      
-       <div class="text-center p-t-60px">
-      <p class="bannerTitle">New to Azure DevOps?</p>
-      <p class="bannerText">Don't have an account? No worries! Sign up for free Azure DevOps Organization<br></p>
-<p><a href="https://go.microsoft.com/fwlink/?LinkId=2014881" class="btn btn-sm btn-primary mt-1">Sign Up for free now</a></p>
-      </div>
-    </div>
-    <!-- <div class="carousel-item banner3">
-      <div class="text-center p-t-60px">
-      <p class="bannerTitle">Azure DevOps Server Labs available now</p>
-      <p class="bannerText">Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers.<br></p>
-      <p><a href="/labs/devopsserver/" class="btn btn-sm btn-primary mt-1">Start Learning</a></p>
-      </div> 
-    </div>  -->
-	<div class="carousel-item banner3">
-      <div class="text-center p-t-60px">
-      <p class="bannerTitle">Azure DevOps Learning Path</p>
-      <p class="bannerText">Learn new skills and discover the power of Azure DevOps at Microsoft Learn. Start your learning journey today.<br></p>
-      <p><a href="https://docs.microsoft.com/en-us/learn/browse/?products=azure-devops" class="btn btn-sm btn-primary mt-1">Visit Microsoft Learn</a></p>
-      </div> 
-    </div> 
-  </div>
-
-  <!-- Left and right controls -->
-  <a class="carousel-control-prev" href="#demo" data-slide="prev">
-    <span class="carousel-control-prev-icon"></span>
-  </a>
-  <a class="carousel-control-next" href="#demo" data-slide="next">
-    <span class="carousel-control-next-icon"></span>
-  </a>
-
-</div>
-
-<!--  <a href="https://go.microsoft.com/fwlink/?LinkId=2014881" class="launch-hol btn-css text-white align-items-center d-flex justify-content-center"
-                role="button" target="_blank" onclick="pageTracker._trackEvent('SignUp', 'Click', 'New User SignUp');">Sign
-                up for free now</a>-->
 <div class="container">
 <div class="row my-2">
   <div class="col-sm-8" style="margin-top:30px; margin-bottom: 20px">
-  <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
-                                  <p>Simplify and speed up the DevOps process with Azure DevOps services. The
-                                    following labs will help you to get started with Azure DevOps services to automate software
-                                    delivery and meet business needs.</p>
+  <h2 class="border-0 fon-normal">DevOps with Azure DevOps</h2> 
+                                  <p>Simplify and speed up the DevOps process with Azure DevOps services.</p>
 </div>
 <div class="col-sm-4" style="text-align:right">
 <img src="/images/AzureDevOps-img.png" alt="Azure DevOps" width="250">
