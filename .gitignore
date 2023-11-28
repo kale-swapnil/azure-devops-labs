@@ -6,3 +6,4 @@ _pdf
 .DS_Store
 /.vs
 SECURITY.md
+azure-devops-labs.code-workspace
